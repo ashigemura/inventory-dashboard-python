@@ -8,7 +8,7 @@
 
 ## デモ
 ブラウザから実際に操作できます  
-https://inventory-dashboard-python.streamlit.app/
+https://inventory-dashboard-python-portfolio.streamlit.app/
 
 
 ## 概要
